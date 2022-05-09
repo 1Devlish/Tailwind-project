@@ -1,0 +1,30 @@
+.bg1{
+    background: linear-gradient(90deg, #EE0673 0%, #E51C31 70.52%); color: aliceblue; padding: 5px;
+  }
+  .bg-nav {
+    background: linear-gradient(90deg, #EF0679 0%, #F89706 98.92%);
+  }
+
+  .bg-btn1 {
+    background: linear-gradient(90deg, #EE0674 0%, #E51C31 70.52%);
+  }
+
+  .brand {
+    background: linear-gradient(180deg, #EF057A 0%, #F89706 100%);
+
+  }
+  .bg3{
+    background: #EBFDEE;
+
+  }
+  .bg4{
+    background: #E8F0FB;
+
+  }
+  .bg5{
+    background: #FFEFE7;
+
+  }
+  .w-39{
+    width: 39px;
+  }
